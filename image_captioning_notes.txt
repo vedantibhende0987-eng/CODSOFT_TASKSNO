@@ -1,0 +1,50 @@
+
+# Image Captioning AI
+
+## Project Overview
+This project generates captions for images using artificial
+intelligence. It combines computer vision and natural
+language processing to describe the contents of an image.
+
+## Objective
+To build an AI system that accepts an image and automatically
+generates a meaningful textual description.
+
+## Technologies Used
+- Python
+- PyTorch
+- Hugging Face Transformers
+- BLIP pre-trained model
+- Pillow
+- Google Colab
+
+## How It Works
+1. The user uploads an image.
+2. The AI processes the image.
+3. The model generates a textual caption.
+4. The caption is displayed to the user.
+
+## How to Run
+1. Open CODSOFT_Image_Captioning.ipynb in Google Colab.
+2. Install the required libraries.
+3. Load the pre-trained model.
+4. Upload an image.
+5. Run the caption-generation cell.
+6. View the generated caption.
+
+## Model
+Salesforce BLIP Image Captioning Base
+
+https://huggingface.co/Salesforce/blip-image-captioning-base
+
+## Applications
+- Image accessibility
+- Automatic image descriptions
+- Photo organization
+
+## Limitations
+The model may occasionally generate inaccurate captions.
+
+## Author
+Add your name here.
+Vedanti Bhende
